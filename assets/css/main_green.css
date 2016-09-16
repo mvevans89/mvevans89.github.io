@@ -2450,7 +2450,7 @@
 
 	#header {
 		background: #2C9E76;
-		color: #07704B; 
+		color: #00593A; 
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -2468,11 +2468,11 @@
 			}
 
 		#header header p {
-			color: #07704B;
+			color: #00593A;
 		}
 
 		#header a {
-			color: #07704B;
+			color: #00593A;
 		}
 
 			#header a:hover {
@@ -2495,7 +2495,7 @@
 			}
 
 			#header > header p {
-				color: #07704B;
+				color: #00593A;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2513,7 +2513,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #07704B;
+					color: #00593A;
 				}
 
 		#header > nav ul {
